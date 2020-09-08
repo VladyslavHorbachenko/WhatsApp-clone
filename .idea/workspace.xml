@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="061f47b1-85a2-4111-b28f-8d876ff544b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/whatsapp-frontend/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-frontend/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-frontend/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-frontend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-frontend/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-frontend/.idea/whatsapp-mern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-frontend/src/Chat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-frontend/src/Chat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-frontend/src/SIdebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-frontend/src/Sidebar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-frontend/src/SidebarChat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-frontend/src/SidebarChat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-frontend/src/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-frontend/src/firebase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/whatsapp-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp-frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/whatsapp-frontend/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp-frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/whatsapp-frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp-frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp-frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/whatsapp-frontend/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp-frontend/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/whatsapp-frontend" />
+  </component>
+  <component name="ProjectId" id="1hAFgT6guN9aYsKUHUDNEHUB5Kj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/whatsapp-frontend/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="061f47b1-85a2-4111-b28f-8d876ff544b4" name="Default Changelist" comment="" />
+      <created>1599446104242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599446104242</updated>
+      <workItem from="1599446108360" duration="13000" />
+      <workItem from="1599446156561" duration="78000" />
+      <workItem from="1599446242402" duration="1502000" />
+      <workItem from="1599514576937" duration="116000" />
+      <workItem from="1599514822656" duration="14087000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="501" y="152" key="SettingsEditor" timestamp="1599510891437">
+      <screen x="0" y="23" width="1920" height="979" />
+    </state>
+    <state x="501" y="152" key="SettingsEditor/0.23.1920.979@0.23.1920.979" timestamp="1599510891437" />
+    <state x="864" y="238" width="670" height="676" key="search.everywhere.popup" timestamp="1599590353420">
+      <screen x="0" y="23" width="1920" height="979" />
+    </state>
+    <state x="864" y="238" width="670" height="676" key="search.everywhere.popup/0.23.1920.979@0.23.1920.979" timestamp="1599590353420" />
+  </component>
+</project>
